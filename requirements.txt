@@ -1,0 +1,29 @@
+1. create a small 3d game using unity or similar engine.
+2. use JS as the programming language.
+3. include basic game mechanics like player movement, object interaction, and scoring.
+4. it is first-person perspective.
+5. it is a shotting game where the player shoots at targets to score points.
+6. add simple 3D models and textures.
+7. implement a basic UI for score display and game over screen.
+8. the game should be easy to understand and play.
+9. include comments in the code to explain key sections and logic.
+10. ensure the game runs smoothly on standard hardware.
+11. package the game for distribution on web platforms.
+12. provide documentation on how to set up and run the game.
+13. include a README file with instructions and credits.
+14. test the game for bugs and fix any issues that arise.
+15. optimize the game for performance and load times.
+16. consider adding sound effects and background music for better immersion.
+17. ensure the game is accessible to players with different skill levels.
+18. build a backend server to store high scores and player data.
+19. there is login and registration system for players.
+20. use a database to manage user accounts and game data.
+21. it is web app only (no mobile or desktop versions, may add those at future).
+22. use modern web technologies like HTML5 for rendering.
+23. use CSS3 for styling the game interface.
+24. use a JavaScript framework like React for building the UI components.
+25. implement responsive design to ensure the game works well on different screen sizes.
+26. use WebGL for rendering 3D graphics in the browser.
+27. ensure cross-browser compatibility for major browsers like Chrome, Firefox, and Edge.
+
+
